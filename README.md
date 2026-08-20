@@ -1,6 +1,6 @@
 # Ivanvolt
 
-Independent developer in Hubei. I ship small tools.
+Indie hacker in Hubei. I run a one-person company and ship my own products.
 
 ## Open source
 
@@ -8,7 +8,7 @@ Independent developer in Hubei. I ship small tools.
 - [saas-base-template](https://github.com/ivanvolt-labs/saas-base-template): SaaS starter
 - [ivan-wallpaper-wechat](https://github.com/ivanvolt-labs/ivan-wallpaper-wechat): WeChat wallpaper mini program
 
-## Tools
+## Products
 
 - [US Address Generator](https://usaddressgenerator.net): random US addresses for tests
 - [Pic Magix](https://picmagix.com): images to post-ready content
